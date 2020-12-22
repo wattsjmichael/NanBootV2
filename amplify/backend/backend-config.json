@@ -3,11 +3,16 @@
     "cognitob4858b5a": {
       "service": "Cognito",
       "serviceType": "managed",
-      "providerPlugin": "awscloudformation"
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
     }
   },
   "xr": {
     "capstonetravis": {
+      "service": "Sumerian",
+      "providerPlugin": "awscloudformation"
+    },
+    "travbot": {
       "service": "Sumerian",
       "providerPlugin": "awscloudformation"
     }

@@ -1,7 +1,36 @@
 {
     "identityPoolName": "capstonetravis_identitypool_9b364471",
-    "allowUnauthenticatedIdentities": false,
-    "authSelections": "identityPoolOnly",
+    "allowUnauthenticatedIdentities": true,
+    "resourceNameTruncated": "cognit207a6d4f",
+    "userPoolName": "cognitob4858b5a_userpool_207a6d4f",
+    "autoVerifiedAttributes": [
+        "email"
+    ],
+    "mfaConfiguration": "OFF",
+    "mfaTypes": [
+        "SMS Text Message"
+    ],
+    "smsAuthenticationMessage": "Your authentication code is {####}",
+    "smsVerificationMessage": "Your verification code is {####}",
+    "emailVerificationSubject": "Your verification code",
+    "emailVerificationMessage": "Your verification code is {####}",
+    "defaultPasswordPolicy": false,
+    "passwordPolicyMinLength": 8,
+    "passwordPolicyCharacters": [],
+    "requiredAttributes": [
+        "email"
+    ],
+    "userpoolClientGenerateSecret": true,
+    "userpoolClientRefreshTokenValidity": 30,
+    "userpoolClientWriteAttributes": [
+        "email"
+    ],
+    "userpoolClientReadAttributes": [
+        "email"
+    ],
+    "userpoolClientLambdaRole": "cognit207a6d4f_userpoolclient_lambda_role",
+    "userpoolClientSetAttributes": false,
+    "authSelections": "identityPoolAndUserPool",
     "resourceName": "cognitob4858b5a",
     "authRoleArn": {
         "Fn::GetAtt": [
@@ -14,5 +43,9 @@
             "UnauthRole",
             "Arn"
         ]
-    }
+    },
+    "useDefault": "default",
+    "userPoolGroupList": [],
+    "serviceName": "Cognito",
+    "dependsOn": []
 }
