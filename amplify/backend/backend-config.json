@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "cognitob4858b5a": {
+      "service": "Cognito",
+      "serviceType": "managed",
+      "providerPlugin": "awscloudformation"
+    }
+  },
+  "xr": {
+    "capstonetravis": {
+      "service": "Sumerian",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

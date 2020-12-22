@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-capstonetravis-dev-114339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::897545348596:role/amplify-capstonetravis-dev-114339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::897545348596:role/amplify-capstonetravis-dev-114339-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-capstonetravis-dev-114339-deployment",
+      "UnauthRoleName": "amplify-capstonetravis-dev-114339-unauthRole",
+      "StackName": "amplify-capstonetravis-dev-114339",
+      "StackId": "arn:aws:cloudformation:us-west-2:897545348596:stack/amplify-capstonetravis-dev-114339/fdbe3270-448d-11eb-83f1-0232f2d1b387",
+      "AmplifyAppId": "d29cllnf2r90d8"
+    },
+    "categories": {
+      "auth": {
+        "cognitob4858b5a": {}
+      },
+      "xr": {
+        "capstonetravis": {
+          "url": "https://sumerian.us-east-1.amazonaws.com/20180801/projects/Drafts/release/authTokens?sceneId=dc4a3f0977554b3bb6c178bfa4b90daa.scene",
+          "sceneId": "dc4a3f0977554b3bb6c178bfa4b90daa.scene",
+          "region": "us-east-1",
+          "projectName": "Drafts"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+
+export default
+{
+  "url": "https://sumerian.us-east-1.amazonaws.com/20180801/projects/Drafts/release/authTokens?sceneId=dc4a3f0977554b3bb6c178bfa4b90daa.scene",
+  "sceneId": "dc4a3f0977554b3bb6c178bfa4b90daa.scene",
+  "region": "us-east-1"
+}
