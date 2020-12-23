@@ -108,7 +108,7 @@ what everything does and there are great tutorials out there. Remember you can d
 
 ------------------------------
 
-### 🤝 Contributors
+###  Contributors
 
 | Author | GitHub | Portfolio |
 |--------|:------:|:---------:|
@@ -116,7 +116,7 @@ what everything does and there are great tutorials out there. Remember you can d
 
 ------------------------------
 
-### ✉️ Contact and Support
+### Contact and Support
 
 If you have any feedback or concerns, please contact one of the contributors.
 
@@ -124,7 +124,7 @@ If you have any feedback or concerns, please contact one of the contributors.
 
 ------------------------------
 
-### ⚖️ License
+### License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Michael Watts. All Rights Reserved.
 ```
@@ -153,7 +153,7 @@ SOFTWARE.
 
 ------------------------------
 
-### 🌟 Acknowledgments
+### Acknowledgments
 
 #### [Epicodus](https://www.epicodus.com/)
 >"A school for tech careers... to help people learn the skills they need to get great jobs."
